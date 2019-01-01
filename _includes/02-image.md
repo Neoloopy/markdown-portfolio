@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![An image of monika](https://i.redd.it/7sq6z9ll24h11.png)
