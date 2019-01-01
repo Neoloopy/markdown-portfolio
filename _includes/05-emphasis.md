@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am in a constant state of learning. Over the years, I have acquired a few set of skills such as _Programming, Literature, Music and art._
